@@ -1,0 +1,17 @@
+{
+  "name": "aircnc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wanderson1873/aircnc.git",
+  "author": "Wanderson Oliveira <wanderson1873@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
